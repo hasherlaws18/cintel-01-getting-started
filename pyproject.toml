@@ -6,10 +6,6 @@
 
 [project]
 name = "cintel" # Package distribution name (lowercase and dashes).
-site_url = "https://hasherlaws18.github.io/cintel-01-getting-started/"
-repo_url ="https://github.com/hasherlaws18/cintel-01-getting-started"
-repo_name = "hasherlaws18/cintel-01-getting-started"
-site_description = "This project introduces continuous intelligence by guiding students to set up a Python pipeline project, run it locally, and publish it to GitHub to practice real-world data monitoring and automation workflows."
 readme = "README.md"
 requires-python = ">=3.14"
 version = "0.1.0"
